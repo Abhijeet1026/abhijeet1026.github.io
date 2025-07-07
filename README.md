@@ -1,13 +1,14 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://mmdpy.github.io
+> https://abhijeet1026.github.io/
 
-![GitHub stars](https://img.shields.io/github/stars/mmdpy/mmdpy.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/mmdpy/mmdpy.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/mmdpy/mmdpy.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://mmdpy.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/mohammada/)
+[![GitHub stars](https://img.shields.io/github/stars/Abhijeet1026/abhijeet1026.github.io)](https://github.com/Abhijeet1026/abhijeet1026.github.io/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/Abhijeet1026/abhijeet1026.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Abhijeet1026/abhijeet1026.github.io/commits/main)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://abhijeet1026.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/abhijeetsingh1/)
+
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
